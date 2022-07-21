@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaitameti
 - 👀 I’m interested in learning c# and becoming a web developer
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C# and Angular
 - 💞️ I’m looking to collaborate on anything related to .NET framework
 - 📫 How to reach me : vaitameti@gmail.com
 
