@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaitameti
-- 👀 I’m interested in learning c# and becoming a web developer
-- 🌱 I’m currently learning C# and Angular
-- 💞️ I’m looking to collaborate on anything related to .NET framework
+- 👀 I’m a C# and Angular developer and interested in learning C# in depth.
+- 🌱 I’m currently learning MongoDb, AWS
+- 💞️ I’m looking to collaborate on anything related to .NET framework and Angular framework
 - 📫 How to reach me : vaitameti@gmail.com
 
 <!---
